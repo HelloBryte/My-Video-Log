@@ -2,6 +2,10 @@
 
 Welcome to my YouTube video creation archive. This repository contains technical demonstrations and project showcases.
 
+## 🎥 YouTube Channel
+
+Visit my YouTube channel: [https://www.youtube.com/@Bryte-k](https://www.youtube.com/@Bryte-k)
+
 ## Video Gallery
 
 | Cover/Watch | Project Name | Description | Resources |
